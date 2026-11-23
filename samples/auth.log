@@ -1,0 +1,27 @@
+# Synthetic auth.log for SOC N1 practice — not real customer data
+Mar 23 08:01:01 lab-web-01 sshd[1101]: Failed password for root from 203.0.113.10 port 52201 ssh2
+Mar 23 08:01:04 lab-web-01 sshd[1102]: Failed password for root from 203.0.113.10 port 52202 ssh2
+Mar 23 08:01:07 lab-web-01 sshd[1103]: Failed password for root from 203.0.113.10 port 52203 ssh2
+Mar 23 08:01:10 lab-web-01 sshd[1104]: Failed password for invalid user admin from 203.0.113.10 port 52204 ssh2
+Mar 23 08:01:13 lab-web-01 sshd[1105]: Failed password for invalid user admin from 203.0.113.10 port 52205 ssh2
+Mar 23 08:01:16 lab-web-01 sshd[1106]: Failed password for ubuntu from 203.0.113.10 port 52206 ssh2
+Mar 23 08:01:19 lab-web-01 sshd[1107]: Failed password for ubuntu from 203.0.113.10 port 52207 ssh2
+Mar 23 08:01:22 lab-web-01 sshd[1108]: Failed password for ubuntu from 203.0.113.10 port 52208 ssh2
+Mar 23 08:01:25 lab-web-01 sshd[1109]: Failed password for ubuntu from 203.0.113.10 port 52209 ssh2
+Mar 23 08:01:28 lab-web-01 sshd[1110]: Failed password for ubuntu from 203.0.113.10 port 52210 ssh2
+Mar 23 08:01:31 lab-web-01 sshd[1111]: Failed password for ubuntu from 203.0.113.10 port 52211 ssh2
+Mar 23 08:01:34 lab-web-01 sshd[1112]: Failed password for ubuntu from 203.0.113.10 port 52212 ssh2
+Mar 23 08:01:40 lab-web-01 sshd[1113]: Accepted password for ubuntu from 203.0.113.10 port 52213 ssh2
+Mar 23 08:05:01 lab-web-01 sshd[1201]: Failed password for root from 198.51.100.44 port 40001 ssh2
+Mar 23 08:05:03 lab-web-01 sshd[1202]: Failed password for root from 198.51.100.44 port 40002 ssh2
+Mar 23 08:05:05 lab-web-01 sshd[1203]: Failed password for root from 198.51.100.44 port 40003 ssh2
+Mar 23 08:05:07 lab-web-01 sshd[1204]: Failed password for root from 198.51.100.44 port 40004 ssh2
+Mar 23 08:05:09 lab-web-01 sshd[1205]: Failed password for root from 198.51.100.44 port 40005 ssh2
+Mar 23 08:05:11 lab-web-01 sshd[1206]: Failed password for root from 198.51.100.44 port 40006 ssh2
+Mar 23 08:05:13 lab-web-01 sshd[1207]: Failed password for root from 198.51.100.44 port 40007 ssh2
+Mar 23 08:05:15 lab-web-01 sshd[1208]: Failed password for root from 198.51.100.44 port 40008 ssh2
+Mar 23 08:10:01 lab-web-01 sshd[1301]: Failed password for alice from 10.0.0.12 port 51001 ssh2
+Mar 23 08:10:05 lab-web-01 sshd[1302]: Accepted publickey for alice from 10.0.0.12 port 51002 ssh2
+Mar 23 08:12:00 lab-web-01 sshd[1401]: Accepted publickey for deploy from 10.0.0.20 port 22022 ssh2
+Mar 23 08:12:30 lab-web-01 sshd[1402]: Accepted publickey for deploy from 10.0.0.20 port 22023 ssh2
+Mar 23 08:13:00 lab-web-01 sshd[1403]: Accepted publickey for deploy from 10.0.0.20 port 22024 ssh2
